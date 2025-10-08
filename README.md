@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  NYU Tandon Career Hub – Data Science Bootcamp (Fall 2025)
 
 Welcome to the official repository for the **NYU Tandon Career Hub Data Science Bootcamp (Fall 2025)**.  
@@ -45,3 +46,7 @@ Graduate Student, NYU
 ---
 
 📌 *This repository is intended for students enrolled in the NYU Tandon Career Hub Fall 2025 Bootcamp.*  
+=======
+# ZYJ_NYU-2025Fall-DataScienceBootcamp
+Practice notebooks and projects from the Fall 2025 NYU Data Science Bootcamp
+>>>>>>> 80625bea68b58a8175a1e1b7b7857ffefe842816
